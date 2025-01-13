@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\ProblemSolving\\ICPC Assiut University Community\\Sheet #4 (Strings)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259D59F3-B1EA-4DBF-AA81-F32ED51ED9B3}|A. Create A New String\\A. Create A New String.csproj|e:\\coding\\csharp\\problemsolving\\icpc assiut university community\\sheet #4 (strings)\\a. create a new string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259D59F3-B1EA-4DBF-AA81-F32ED51ED9B3}|A. Create A New String\\A. Create A New String.csproj|solutionrelative:a. create a new string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\ProblemSolving\\ICPC Assiut University Community\\Sheet #4 (Strings)\\A. Create A New String\\Program.cs",
+              "RelativeDocumentMoniker": "A. Create A New String\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\ProblemSolving\\ICPC Assiut University Community\\Sheet #4 (Strings)\\A. Create A New String\\Program.cs",
+              "RelativeToolTip": "A. Create A New String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:02:58.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
