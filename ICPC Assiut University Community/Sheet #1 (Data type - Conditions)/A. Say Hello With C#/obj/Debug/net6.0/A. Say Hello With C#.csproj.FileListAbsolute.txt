@@ -1,0 +1,14 @@
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\bin\Debug\net6.0\A. Say Hello With C#.exe
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\bin\Debug\net6.0\A. Say Hello With C#.deps.json
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\bin\Debug\net6.0\A. Say Hello With C#.runtimeconfig.json
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\bin\Debug\net6.0\A. Say Hello With C#.dll
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\bin\Debug\net6.0\A. Say Hello With C#.pdb
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.AssemblyInfoInputs.cache
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.AssemblyInfo.cs
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.dll
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\refint\A. Say Hello With C#.dll
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.pdb
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\A. Say Hello With C#.genruntimeconfig.cache
+E:\Coding\CSharp\ProblemSolving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\A. Say Hello With C#\obj\Debug\net6.0\ref\A. Say Hello With C#.dll
