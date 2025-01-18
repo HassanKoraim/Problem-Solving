@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\refint\F. Digits Summation.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\ref\F. Digits Summation.dll
