@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\bin\Debug\net6.0\G. Summation from 1 to N.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\bin\Debug\net6.0\G. Summation from 1 to N.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\bin\Debug\net6.0\G. Summation from 1 to N.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\bin\Debug\net6.0\G. Summation from 1 to N.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\bin\Debug\net6.0\G. Summation from 1 to N.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\refint\G. Summation from 1 to N.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\G. Summation from 1 to N.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\G. Summation from 1 to N\obj\Debug\net6.0\ref\G. Summation from 1 to N.dll
