@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\refint\H. Two numbers.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\ref\H. Two numbers.dll
