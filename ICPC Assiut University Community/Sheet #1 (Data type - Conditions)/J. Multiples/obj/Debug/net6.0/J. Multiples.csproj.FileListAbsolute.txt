@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\refint\J. Multiples.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\ref\J. Multiples.dll
