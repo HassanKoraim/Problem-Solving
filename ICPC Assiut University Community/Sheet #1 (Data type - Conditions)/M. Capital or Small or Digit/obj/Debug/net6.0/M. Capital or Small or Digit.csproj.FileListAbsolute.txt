@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\refint\M. Capital or Small or Digit.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\ref\M. Capital or Small or Digit.dll
