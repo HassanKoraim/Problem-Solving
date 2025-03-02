@@ -1,0 +1,15 @@
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\bin\Debug\net6.0\O. Calculator.exe
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\bin\Debug\net6.0\O. Calculator.deps.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\bin\Debug\net6.0\O. Calculator.runtimeconfig.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\bin\Debug\net6.0\O. Calculator.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\bin\Debug\net6.0\O. Calculator.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.AssemblyInfo.cs
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.sourcelink.json
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\refint\O. Calculator.dll
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.pdb
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\O. Calculator.genruntimeconfig.cache
+E:\Coding\CSharp\Problem Solving\ICPC Assiut University Community\Sheet #1 (Data type - Conditions)\O. Calculator\obj\Debug\net6.0\ref\O. Calculator.dll
